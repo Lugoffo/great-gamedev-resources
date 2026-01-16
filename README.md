@@ -35,11 +35,11 @@ There is a great list here: [Awesome Devblogs by terrehbyte](https://github.com/
 Game engines anyone can use!
 
 ## From companies
-- [Cryengine](https://www.cryengine.com/)
 - [Source Engine](https://developer.valvesoftware.com/wiki/SDK_Installation)
 - [Unity](https://unity.com/)
 - [Unreal](https://www.unrealengine.com/en-US)
 - [Construct 3](https://www.construct.net/en)
+- [Cryengine](https://www.cryengine.com/)
 
 ## Mod-able Engines
 - [Creation Kit for Skyrim](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/)
@@ -106,6 +106,7 @@ List of games and game projects that are open source, or at least open to the po
 
 # Programming 
 - [Code Standard (C++ guide) from Google](https://google.github.io/styleguide/cppguide.html)
+- [C++ Core Guidelines by Bjarne Stroustrup and Herb Sutter](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 - [List of the papers and articles about game development](https://www.gamedevs.org/)
 - [List of programming books](https://realtimecollisiondetection.net/books/list/)
 - [Functional Programming in C++](https://www.sevangelatos.com/john-carmack-on/) by John Carmack
@@ -116,6 +117,7 @@ List of games and game projects that are open source, or at least open to the po
   - [Code Academy](https://www.codecademy.com/)
 ## Books
 - The Pragmatic Programmer: Your Journey To Mastery by David Thomas and Andrew Hunt
+- [Game Engine Architechture by Jason Gregory](https://www.gameenginebook.com/)
 
 ## Game Architecture and Patterns
 - [ECS, entity component system, FAQ](https://github.com/SanderMertens/ecs-faq) by SanderMertens
