@@ -17,6 +17,8 @@ No AI-generated resources.*
 
 # Blogs
 There is a great list here: [Awesome Devblogs by terrehbyte](https://github.com/terrehbyte/awesome-devblogs/tree/master?tab=readme-ov-file#portfolio-andor-blog)
+</br>Additions
+- Itch.io has a bunch of great ones, such as from [Bittersweet Birthday](https://worldeater-dev.itch.io/bittersweet-birthday/devlog/210789/howto-drawing-a-metric-ton-of-bullets-in-godot)
 
 # Portfolios
 There is a great list here: [Awesome Devblogs by terrehbyte](https://github.com/terrehbyte/awesome-devblogs/tree/master?tab=readme-ov-file#portfolio)
