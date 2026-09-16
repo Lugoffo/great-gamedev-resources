@@ -7,8 +7,9 @@ There are so many fantastic projects and resources out there for game developers
 
 ### Disclaimers
 *This is mostly from a gameplay coder/programmer perspective. \
-The resources are in english. \
-No AI-generated resources.*
+The resources are in no particular order. \
+The resources are in english.*
+
 ## Contents
 - [Portfolios](#portfolios)
 - [Game Engines](#game-engines)
@@ -36,16 +37,6 @@ There is a great list here: [Awesome Devblogs by terrehbyte](https://github.com/
 # Game Engines
 Game engines anyone can use!
 
-## From companies
-- [Source Engine](https://developer.valvesoftware.com/wiki/SDK_Installation)
-- [Unity](https://unity.com/)
-- [Unreal](https://www.unrealengine.com/en-US)
-- [Construct 3](https://www.construct.net/en)
-- [Cryengine](https://www.cryengine.com/)
-
-## Mod-able Engines
-- [Creation Kit for Skyrim](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/)
-
 ## Open Source / Foundation / Passion Project Engines
 There is a great list of engines here: [Open Source Engines by Bobeff](https://github.com/bobeff/open-source-engines)
 - [03DE](https://o3de.org/), previously Amazon Lumberyard
@@ -57,23 +48,34 @@ There is a great list of engines here: [Open Source Engines by Bobeff](https://g
 # Libraries and Extensions
 Great add-ons, libraries and extensions you can use for your projects.
 
+- [Box2D](https://github.com/erincatto/box2d), physics engine by Erin Catto
+- [BulletPhysics SDK](https://github.com/bulletphysics/bullet3), collision detection and multi-physics simulation
+  - [LiquidFun](https://google.github.io/liquidfun/), extention with liquid physics to Box2D
 - [Clang](https://clang.llvm.org/), Compiler frontend
 - [CMake](https://cmake.org/), build system tool
-- [EASTL](https://github.com/electronicarts/EASTL), Electronic Arts Standard Template Library
-- [Box2D](https://github.com/erincatto/box2d), physics engine by Erin Catto
-  - [LiquidFun](https://google.github.io/liquidfun/), extention with liquid physics to Box2D
-- [BulletPhysics SDK](https://github.com/bulletphysics/bullet3), collision detection and multi-physics simulation
 - [Dear Imgui](https://github.com/ocornut/imgui), graphical user interface
+- [EASTL](https://github.com/electronicarts/EASTL), Electronic Arts Standard Template Library
 - [GCC](https://gcc.gnu.org/), GNU compiler colllection
 - [GLM - OpenGL Mathemathics](https://github.com/g-truc/glm), math library
+- [Ink](https://www.inklestudios.com/ink/), narrative scripting
 - [Lua](https://www.lua.org/), scripting languange
 - [OpenGL](https://www.opengl.org/), renderer
 - [SDL2](https://wiki.libsdl.org/SDL2/FrontPage), input frontend (audio, mouse, keyboard etc)
 - [Spdlog](https://github.com/gabime/spdlog), logger for C++
 - [Wwise](https://www.audiokinetic.com/en/wwise/overview/), audio
-- [Ink](https://www.inklestudios.com/ink/), narrative scripting
 
 You can find even more here: [Gamedev Libraries by Raizam](https://github.com/raizam/gamedev_libraries) and here [Leereilly's list of games on github](https://github.com/diasurgical/devilution).
+
+## From companies
+- [Construct 3](https://www.construct.net/en)
+- [Cryengine](https://www.cryengine.com/)
+- [Source Engine](https://developer.valvesoftware.com/wiki/SDK_Installation)
+- [Unity](https://unity.com/)
+- [Unreal](https://www.unrealengine.com/en-US)
+
+### Mod-able Engines
+- [Creation Kit for Skyrim](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/)
+
 # Open Source Games
 List of games and game projects that are open source, or at least open to the point that you can look at the source code!
 
@@ -94,14 +96,14 @@ List of games and game projects that are open source, or at least open to the po
   - [DOOM 3](https://github.com/id-Software/DOOM-3-BFG)
   - [Wolfenstein 3D](https://github.com/id-Software/wolf3d)
   - [Quake](https://github.com/id-Software/Quake)
-    - Also, check out [Fabien Sanglard's code reivew](https://fabiensanglard.net/quake3/index.php) of it 
-- Large open projects to recreate old games
-  - [OpenGoal](https://opengoal.dev/), an attempt to remake Jak and Daxter
+    - Also, do check out [Fabien Sanglard's code reivew](https://fabiensanglard.net/quake3/index.php) of it 
+- Examples of open projects to recreate old games
   - [Daggerfall](https://www.dfworkshop.net/)
-  - [WipeOUT](https://phoboslab.org/log/2023/08/rewriting-wipeout)
   - [GTA 3](https://openrw.org/)
-- [Devilution](https://github.com/diasurgical/devilution), Diablo-ish
-- [OpenGolf](https://opengoal.dev/)
+  - [OpenGoal](https://opengoal.dev/), an attempt to remake Jak and Daxter
+  - [WipeOUT](https://phoboslab.org/log/2023/08/rewriting-wipeout)
+  - [Diablo](https://github.com/diasurgical/devilution), Diablo-ish
+  - [OpenGolf](https://opengoal.dev/)
 
 # Documentaries and movies
 - [NoClip](https://www.youtube.com/@NoclipDocs) has lots of "Making of" games
